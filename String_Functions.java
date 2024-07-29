@@ -1,6 +1,6 @@
 public class String_Functions {
     public static void main(String args[]) {
-        String text = "nbdjhsukhfdjkfnd";
+        String text = "abcdefghijklmnopqrstuvwxyz";
         String text1 = "Ankit Kumar";
         String firstname = "Ankit";
         String secondname = "Kumar";
@@ -8,7 +8,7 @@ public class String_Functions {
         int y = 10;
         String z = x + y;
         String X = "Don't you worry son \"because\" daddy's home";
-        
+
         System.out.println("Length of text is: " + text.length());
         
         System.out.println(text1.toUpperCase());
